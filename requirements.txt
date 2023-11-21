@@ -1,0 +1,7 @@
+openai
+langchain
+streamlit
+streamlit-extras
+python-dotenv
+huggingface-hub
+pypdf
